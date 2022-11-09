@@ -6,4 +6,4 @@
   - 💻 github: https://github.com/Marades
   - 📒 blog: https://marades.tistory.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marades&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Marades GitHub stats](https://github-readme-stats.vercel.app/api?username=Marades&show_icons=true&theme=onedark)
